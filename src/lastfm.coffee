@@ -1,7 +1,6 @@
 #
 # Description:
-#   Commands for the Last.fm API -- note all of our spotify songs
-#   get scrobbled to Last.fm
+#   Commands for the Last.fm API
 #
 # Dependencies:
 #   htmlToText
