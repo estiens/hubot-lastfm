@@ -15,10 +15,3 @@ Then add **hubot-lastfm** to your `external-scripts.json`:
 ```json
 ["hubot-lastfm"]
 ```
-
-## Sample Interaction
-
-```
-user1>> hubot hello
-hubot>> hello!
-```
