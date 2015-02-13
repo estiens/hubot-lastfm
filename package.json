@@ -3,7 +3,7 @@
   "description": "A hubot script that accesses the Last.fm API",
   "version": "1.0.0",
   "author": "Eric Stiens <eric@softwareforgood.com>",
-  "license": "MIT",
+  "license": "GPL v2",
 
   "keywords": ["hubot","hubot-scripts","lastfm","music"],
 
@@ -28,7 +28,7 @@
     "grunt-contrib-watch": "~0.5.3"
   },
 
-  "main": "index.coffee",
+  "main": "lastfm.coffee",
 
   "scripts": {
     "test": "grunt test"
