@@ -6,7 +6,7 @@
 #   htmlToText
 #
 # Configuration:
-#   HUBOT_LASTFM_APIKEY
+#   HUBOT_LAST_FM_KEY
 #   HUBOT_LAST_FM_USERNAME
 #
 # Commands:
